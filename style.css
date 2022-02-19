@@ -11,10 +11,11 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+  
+  background-image: url('https://source.unsplash.com/1600x900/?landscape');
   /* background: #43AF; */
-  /* background: #707270; */
-  background: #e4e494;  
-/*   background: #43AFFC; */
+  /* background: #e4e494; */
+  /* background: #43AFFC; */
 }
 ::selection{
   color: #fff;
@@ -22,6 +23,7 @@ body{
 }
 .wrapper{
   width: 400px;
+  
   background: #fff;
   border-radius: 7px;
   box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.05);
