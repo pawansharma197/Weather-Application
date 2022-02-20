@@ -1,6 +1,7 @@
 # Weather-Application
 
 This is a Weather Application project done under FRT Internship .
+
 PROJECT DEMO LINK : https://dynamicweatherapplication1.azurewebsites.net/
 
 UPDATED PROJECT DEMO lINK : https://weathernews.azurewebsites.net/
