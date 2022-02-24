@@ -23,10 +23,10 @@ Tech Used In The Project :
 
 URL for the OpenWeather : https://openweathermap.org/current
 
-Demo :
-![WhatsApp Image 2022-02-15 at 10 50 08 PM](https://user-images.githubusercontent.com/76591045/154114999-3e375685-043a-467a-aa74-0ef949285dde.jpeg)
-![WhatsApp Image 2022-02-15 at 10 50 09 PM (1)](https://user-images.githubusercontent.com/76591045/154115367-80afe93a-bf9b-4f8f-af73-c36fc0993db4.jpeg)
-![WhatsApp Image 2022-02-15 at 10 50 09 PM](https://user-images.githubusercontent.com/76591045/154115139-529487e8-8d49-4560-943a-ef3818e0c890.jpeg)
+Demo :![Screenshot (367)](https://user-images.githubusercontent.com/76591045/155458556-ddffd4c6-cc0f-452c-9450-dbef48e6f7fa.png)
+![Screenshot (368)](https://user-images.githubusercontent.com/76591045/155458582-5325437e-0814-4164-a215-e691c218fea9.png)
+![Screenshot (369)](https://user-images.githubusercontent.com/76591045/155458639-74221438-d568-4bf0-bf2e-1b791d3575da.png)
+
 
 Now Why To get data From API or Why to use API? 
 
